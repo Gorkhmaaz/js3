@@ -31,16 +31,16 @@ switch (fruit) {
     case 'ананас':
         alert('Мы имеем в наличии этот фрукт')
         break;
-    case 'orange':
+    case 'апельсин':
         alert('Мы имеем в наличии этот фрукт')
         break;
-    case 'apple':
+    case 'яблоко':
         alert('Мы имеем в наличии этот фрукт ')
         break;
-        case 'banana':
+        case 'банан':
             alert('Мы имеем в наличии этот фрукт')
             break;
-        case 'mango':
+        case 'манго':
             alert('Мы имеем в наличии этот фрукт')
             break;
         default:
